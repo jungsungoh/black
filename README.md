@@ -8,7 +8,7 @@ compile 방법
 
 프로그램  실행 방법
 compile 후 blackjack 실행파일이 생성되고
-./blackjack 을  입력해서 실행한다
+- ./blackjack 을  입력해서 실행한다
 
 BlackJack의 기본 룰
 - 카드에 적힌 숫자의 합이 21(Black jack)에 가까운 Player의 승리
